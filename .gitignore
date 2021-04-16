@@ -1,6 +1,7 @@
 # General
 .DS_Store
-config.py
+WeatherPy/config.py
+VacationPy/config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
